@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Gio:V3YC8ZxqXKmVubXB@devchat-tifbc.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "thisIsMySecret12309481230958"
+}
